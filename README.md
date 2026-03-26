@@ -20,6 +20,12 @@ code --install-extension oldjobobo.miasma-theme
 - Semantic highlighting support
 - Expanded syntax highlighting coverage for Rust, JavaScript, TypeScript, Python, Shell, Markdown, CSS, JSON, TOML, YAML, HTML, Lua, and diff views
 
+## Highlighting Coverage
+
+- `391` TextMate scopes themed
+- `52` semantic token selectors themed
+- Semantic highlighting enabled by the theme
+
 ## Notes
 
 - Semantic highlighting is enabled by the theme.

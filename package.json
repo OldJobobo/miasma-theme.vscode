@@ -4,6 +4,7 @@
   "description": "Miasma color theme for VS Code",
   "version": "0.0.2",
   "publisher": "oldjobobo",
+  "icon": "miasma-theme-icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
