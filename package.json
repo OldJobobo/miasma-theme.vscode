@@ -2,7 +2,7 @@
   "name": "miasma-theme",
   "displayName": "Miasma Theme",
   "description": "Miasma color theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "oldjobobo",
   "license": "MIT",
   "repository": {
@@ -35,7 +35,8 @@
       {
         "label": "Miasma",
         "uiTheme": "vs-dark",
-        "path": "./themes/base16-miasma-color-theme.json"
+        "path": "./themes/base16-miasma-color-theme.json",
+        "semanticHighlighting": true
       }
     ]
   }
