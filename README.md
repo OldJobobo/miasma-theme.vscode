@@ -1,37 +1,26 @@
-# Miasma VS Code Theme Extension
+# Miasma Theme
 
-VS Code theme extension for `Miasma`.
-Colors are derived from `miasma.nvim` (primarily `extras/miasma.toml` and `colors/miasma.vim`).
+Miasma for VS Code.
+
+Built from the Miasma palette and tuned for stronger syntax and semantic highlighting across the languages most people actually use.
+
+![Miasma Theme Preview](./preview.png)
 
 ## Install
 
-Install from the VS Code Marketplace (after first publish):
+Install from the VS Code Marketplace:
 
 ```bash
 code --install-extension oldjobobo.miasma-theme
 ```
 
-Or install the bundled `.vsix` directly:
+## Included
 
-```bash
-code --install-extension ./miasma-theme-*.vsix
-```
+- Dark Miasma UI theme
+- Semantic highlighting support
+- Expanded syntax highlighting coverage for Rust, JavaScript, TypeScript, Python, Shell, Markdown, CSS, JSON, TOML, YAML, HTML, Lua, and diff views
 
-## Rebuild VSIX (maintainers)
+## Notes
 
-Requires `@vscode/vsce`.
-
-```bash
-npm run package
-```
-
-## Versioning
-
-This project uses Semantic Versioning (`MAJOR.MINOR.PATCH`).
-
-- `npm run version:patch`: backward-compatible fixes (`0.0.1` -> `0.0.2`)
-- `npm run version:minor`: backward-compatible features (`0.0.1` -> `0.1.0`)
-- `npm run version:major`: breaking changes (`0.0.1` -> `1.0.0`)
-
-Each command updates `package.json`, creates a Git commit, and creates a Git tag.
-Use `npm run release:patch|minor|major` to version and build the VSIX in one step.
+- Semantic highlighting is enabled by the theme.
+- The theme is intended to keep the original Miasma feel while improving symbol separation and readability in real projects.
