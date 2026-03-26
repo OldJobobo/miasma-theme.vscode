@@ -2,7 +2,7 @@
   "name": "miasma-theme",
   "displayName": "Miasma Theme",
   "description": "Miasma color theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "oldjobobo",
   "icon": "miasma-theme-icon.png",
   "license": "MIT",
