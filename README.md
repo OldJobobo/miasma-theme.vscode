@@ -4,7 +4,7 @@ Miasma for VS Code.
 
 Built from the Miasma palette and tuned for stronger syntax and semantic highlighting across the languages most people actually use.
 
-![Miasma Theme Preview](./preview.png)
+![Miasma Theme Preview](https://raw.githubusercontent.com/OldJobobo/miasma-theme.vscode/master/preview.png)
 
 ## Install
 
