@@ -360,7 +360,7 @@
     "banner.foreground": "#c2c2b0",
     "banner.iconForeground": "#b36d43",
     "extensionButton.prominentBackground": "#5f875f",
-    "extensionButton.prominentForeground": "#d7c483",
+    "extensionButton.prominentForeground": "#222222",
     "extensionButton.prominentHoverBackground": "#242d1d",
     "extensionBadge.remoteBackground": "#d7c483",
     "extensionBadge.remoteForeground": "#d7c483",
